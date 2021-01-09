@@ -2,7 +2,7 @@
 # CSC258H5S Fall 2020 Assembly Final Project
 # University of Toronto, St. George
 #
-# Student: Jeffrey Wong, 1005353519
+# Student: Jeffrey Wong
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
